@@ -52,9 +52,9 @@
         }
 
         .main-title {
-            font-size: 4rem;
+            font-size: 5rem;
             font-weight: 800;
-            margin-bottom: 30px;
+            margin-bottom: 40px;
             color: white;
             letter-spacing: -2px;
         }
@@ -297,8 +297,8 @@
     <div class="main-container">
         <div class="hero-section">
             <h1 class="main-title">Algunos recursos de Marketing para Enter ;)</h1>
-            <img src="https://lh3.googleusercontent.com/d/1AQCfPHvAQgBMbvQ9kmsPQ1xQblTvN7x-" 
-                 alt="" 
+            <img src="https://camo.githubusercontent.com/d271e289c17ffea98e27321213e389a1734b66ca381dd105dc8b65985e2ceb5f/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3141514366504876415167424d627651396b6d735051317851626c54764e37782d" 
+                 alt="Enter Tech School" 
                  class="header-image">
         </div>
 
