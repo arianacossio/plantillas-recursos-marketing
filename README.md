@@ -52,9 +52,9 @@
         }
 
         .main-title {
-            font-size: 5rem;
+            font-size: 6rem;
             font-weight: 800;
-            margin-bottom: 40px;
+            margin-bottom: 50px;
             color: white;
             letter-spacing: -2px;
         }
