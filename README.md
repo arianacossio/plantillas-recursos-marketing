@@ -52,7 +52,7 @@
         }
 
         .main-title {
-            font-size: 6rem;
+            font-size: 10rem;
             font-weight: 800;
             margin-bottom: 50px;
             color: white;
@@ -268,7 +268,7 @@
 
         @media (max-width: 768px) {
             .main-title {
-                font-size: 2.5rem;
+                font-size: 6rem;
             }
             
             .resources-grid {
